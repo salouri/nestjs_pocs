@@ -1,3 +1,6 @@
 [submodule "task_management_nestjs"]
 	path = task_management_nestjs
 	url = https://github.com/salouri/task_management_nestjs
+[submodule "bookmarks-nestjs"]
+	path = bookmarks-nestjs
+	url = https://github.com/salouri/bookmarks-nestjs
