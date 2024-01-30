@@ -4,3 +4,6 @@
 [submodule "bookmarks-nestjs"]
 	path = bookmarks-nestjs
 	url = https://github.com/salouri/bookmarks-nestjs
+[submodule "online_reservations_nestjs"]
+	path = online_reservations_nestjs
+	url = git@github.com:https://github.com/salouri/online_reservations_nestjs.git
